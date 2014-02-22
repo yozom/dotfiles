@@ -1,0 +1,5 @@
+[core]
+	autocrlf = false
+[user]
+	email = yozo.matsu@gmail.com
+	name = yozomatsu
